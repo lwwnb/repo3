@@ -20,6 +20,6 @@ public class LineckedBlockingQueenDemo {
 
     }
     public void add(){
-        System.out.println(1);
+        System.out.println(1+2);
     }
 }
