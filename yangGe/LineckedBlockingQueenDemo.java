@@ -19,4 +19,7 @@ public class LineckedBlockingQueenDemo {
         abq.peek();//查询队首元素
 
     }
+    public void add(){
+
+    }
 }
