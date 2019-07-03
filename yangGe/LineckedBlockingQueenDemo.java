@@ -25,6 +25,7 @@ public class LineckedBlockingQueenDemo {
             System.out.println(i);
             System.out.println("lww牛逼");
             System.out.println("lww");
+            System.out.println("tmd");
         }
     }
 }
