@@ -1,4 +1,4 @@
-package com.yangGe;
+package yangGe;
 
 public class LockDemo1 {
 
