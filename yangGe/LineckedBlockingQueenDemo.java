@@ -21,5 +21,8 @@ public class LineckedBlockingQueenDemo {
     }
     public void add(){
         System.out.println(1+2);
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
