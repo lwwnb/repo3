@@ -19,6 +19,9 @@ public class RedisLock implements Lock{
 
     @Override
     public boolean tryLock() {
+        if(1==1){
+          
+        }
         return false;
     }
 
