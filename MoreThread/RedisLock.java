@@ -21,7 +21,7 @@ public class RedisLock implements Lock{
     public boolean tryLock() {
         if(1==1){
           
-        }
+        }else{}
         return false;
     }
 
