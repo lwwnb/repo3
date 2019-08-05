@@ -19,7 +19,7 @@ public class RedisLock implements Lock{
 
     @Override
     public boolean tryLock() {
-        return true;
+        return false;
     }
 
     @Override
